@@ -1,0 +1,23 @@
+body
+{
+	background-color: orange;
+}
+h1
+{
+	color: white;
+	font-family: times new roman;
+	text-align: center;
+	font-size: 50px;
+}
+p
+{
+	color: white;
+	font-family: arial;
+	text-align: center;
+	line-height: 1.5;
+	font-size: 20px;
+}
+body
+{
+	background-image: url("image/crumple.jpeg");
+}

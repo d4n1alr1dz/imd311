@@ -1,0 +1,26 @@
+body
+{
+	background-color: green;
+	color: white;
+	font-family: arial;
+	text-align: center;
+	font-size: 30px;
+}
+h1
+{
+	color: white;
+	font-family: times new roman;
+	text-align: center;
+	font-size: 50px;
+}
+h2
+{
+	color: white;
+	font-family: times new roman;
+	text-align: center;
+	font-size: 30px;
+}
+body
+{
+	background-image: url("image/leaves.jpeg");
+}
